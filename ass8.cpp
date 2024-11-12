@@ -1,6 +1,6 @@
 /*
-Name-Tanmay Rajput
-Roll No.-123B1B239
+Name-Parikshit Rajpurohi
+Roll No.-123B1B238
 
 Topic-Write a program to convert infix expression to postfix, infix expression to prefix and evaluation of postfix and prefix expression.
 
